@@ -1,0 +1,65 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+
+}
+
+table {
+margin: 0 auto;
+background-color: rgba(250, 235, 215, 0.415);
+padding:15px;
+overflow-x:auto;
+border-radius:15px;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+
+}
+
+th, td {
+  font-family: 'Quicksand', sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0 auto;
+  padding: 15px;
+  overflow-x:auto;
+  
+}
+
+td, th {
+  border-bottom: 1px solid #dddddd;
+  text-align: left;
+  padding-left:15px;
+  width:200px;
+  word-break: break-word;
+  overflow-x:auto;
+}
+
+tr {
+  width:50px;
+}
+
+
+
+.remove:hover {
+color:red;
+font-weight: bolder;
+font-size: 16px;
+}
+
+@media screen and (max-width: 700px) {
+
+  td, th {
+    font-family: 'poppins', sans-serif;
+    padding: 5px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-size:11px;
+    overflow-x:auto;
+  }
+
+  .remove:hover {
+    color:red;
+    font-weight: bolder;
+    font-size: 12px;
+    }
+}

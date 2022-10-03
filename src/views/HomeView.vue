@@ -4,8 +4,7 @@
 
 <template>
     <article>
-<h1>FRITIDSINTRESSE</h1>
-<h2>Ljudböcker</h2>
+<h1>Ljudböcker</h1>
 <section>
 <p>
 Mitt frtidsintresse är ljudböcker. Jag lyssnar på ljudbok vid appen Nextory och lyssnar varje dag. <br>

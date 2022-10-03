@@ -12,7 +12,7 @@ Mitt frtidsintresse är ljudböcker. Jag lyssnar på ljudbok vid appen Nextory o
 Jag har alltid tyckt om att läsa, och ljudböcker har gjort det mer tillgängligt att ta del av berättelser<br>
 eftersom det går att lyssna medans man gör annat, som exempelvis när jag kodar CSS.<br><br>
 Anledningen till att jag tycker så mycket om att lyssna på böcker än att exempelvis se på serier är <br>
-framförallt att jag i böckertycker att jag lär känna karaktärerna bättre. <br><br>
+framförallt att jag i böcker tycker att jag lär känna karaktärerna bättre. <br><br>
     </p></section>
     <h2>Favoritförfattare</h2>
 <section>
